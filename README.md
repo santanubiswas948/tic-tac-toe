@@ -9,7 +9,8 @@ It is a tic-tac-toe game purely created by javascript.
 # Demo
 [This]() is a simple demo of tic-tac-toe game.
 # Getting Started
-Add this code in a new file of html.
+- Add this code in a new file of html for example index.html and save it in the same 
+folder where you downloaded the project.
 ```html
 <!DOCTYPE html>
 <html>
@@ -22,6 +23,7 @@ Add this code in a new file of html.
     </body>
 </html>
 ```
+- Then open this index.html using any browser.
 # Contributing
 Your PRs and stars are always welcome.
 - Add your new features or fixes.
