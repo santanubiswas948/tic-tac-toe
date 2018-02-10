@@ -7,7 +7,7 @@ It is a tic-tac-toe game purely created by javascript.
   https://github.com/santanubiswas948/Tic_Tac_Toe.git
 ```
 # Demo
-[This]() is a simple demo of tic-tac-toe game.
+[This](https://santanubiswas948.github.io/tic-tac-toe/) is a simple demo of tic-tac-toe game.
 # Getting Started
 - Then open the index.html using any browser after downloading or cloning in any browser.
 # Contributing
