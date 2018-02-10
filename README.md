@@ -9,21 +9,7 @@ It is a tic-tac-toe game purely created by javascript.
 # Demo
 [This]() is a simple demo of tic-tac-toe game.
 # Getting Started
-- Add this code in a new file of html for example index.html and save it in the same 
-folder where you downloaded the project.
-```html
-<!DOCTYPE html>
-<html>
-    <head>
-        <title>A Simple Tic-Tac-Toe Game</title>
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.j s"></script>
-        <script src="tic.js"></script>
-    </head>
-    <body>
-    </body>
-</html>
-```
-- Then open this index.html using any browser.
+- Then open the index.html using any browser after downloading or cloning in any browser.
 # Contributing
 Your PRs and stars are always welcome.
 - Add your new features or fixes.
