@@ -14,6 +14,7 @@ It is a tic-tac-toe game purely created by javascript.
 Your PRs and stars are always welcome.
 - Add your new features or fixes.
 - Build the project.
-
+# Contributors
+- Santanu Biswas
 # Lincense
-Its MIT Liencense.
+Liencensed under [MIT](LICENSE).
