@@ -1,13 +1,31 @@
-/*******************************************************************/
-#GAME:        TIC-TAC-TOE
-#CREATED BY:  SANTANU BISWAS
-/*******************************************************************/
+# Tic-Tac-Toe
+It is a tic-tac-toe game purely created by javascript.
+# Installation
+```sh
+  1.you can download it.
+  2.You can clone the project folder using git command $ git clone
+  https://github.com/santanubiswas948/Tic_Tac_Toe.git
+```
+# Demo
+[This]() is a simple demo of tic-tac-toe game.
+# Getting Started
+Add this code in a new file of html.
+```html
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>A Simple Tic-Tac-Toe Game</title>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.j s"></script>
+        <script src="tic.js"></script>
+    </head>
+    <body>
+    </body>
+</html>
+```
+# Contributing
+Your PRs and stars are always welcome.
+- Add your new features or fixes.
+- Build the project.
 
-#USER PLAY:   At first user have to play first and click any box and it will show 0 in your clicked box.
-#SYSTEM PLAY: After clicking the user, system plays and give 1.
-
-
-#WIN:If any rows values are same, or any columns value same or any diagonal value same then if it contains 0 then user will
-    win and if it contains 1 then  system will win.
-	
-#RESTART: After wining any one (system or user) the game will be stop. Then to restart the play click play again button.
+# Lincense
+Its MIT Liencense.

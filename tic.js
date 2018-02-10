@@ -1,13 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style type="text/css">
-  #start_or_finish_tbl button{
-    
-  }
-</style>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-<script>
+
   $(function(){
       $('body').append('<div id="msg" style="font-size:20px; margin-bottom:20px" align="center"></div>');
       $('body').append('<table id="tbl"  align="center"></table>');
@@ -533,10 +524,3 @@ function get_opportunity(place_val)
 	 }
 	 return false;
 }
-</script>
-</head>
-
-<body>
-   
-</body>
-</html>
