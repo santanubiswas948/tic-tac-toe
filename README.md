@@ -2,7 +2,8 @@
 It is a tic-tac-toe game purely created by javascript.
 # Sample Images
 This are the sample images
-
+- 0 for user play. 1 for system play.
+- click any box for playing..
 <img src="images/1st_looking.PNG" width="200" height="200"> <img src="images/2nd_looking.PNG" width="200" height="200">
 <img src="images/3rd_looking.PNG" width="220" height="220"> <img src="images/4th_looking.PNG" width="220" height="220">
 
