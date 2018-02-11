@@ -34,7 +34,7 @@ function play_again_option_show()
 	  
 	    if(p=='0')
 	    {
-		  $('#msg').html('Congratualison For Wining');
+		  $('#msg').html('Congratualion For Wining');
 		  $('#msg').css('color','green');
 	    }
 	    else
@@ -51,7 +51,7 @@ function play_again_option_show()
 		$('#row_1_2').css('background-color','green');
 	  if(p=='0')
 	  {
-		$('#msg').html('Congratualison For Wining');
+		$('#msg').html('Congratualion For Wining');
 		$('#msg').css('color','green');
 	  }
 	  else
@@ -70,7 +70,7 @@ function play_again_option_show()
 		$('#row_2_2').css('background-color','green');
 	  if(p=='0')
 	  {
-		$('#msg').html('Congratualison For Wining');
+		$('#msg').html('Congratualion For Wining');
 		$('#msg').css('color','green');
 	  }
 	  else
@@ -92,7 +92,7 @@ function play_again_option_show()
 		$('#row_2_0').css('background-color','green');
 	  if(p=='0')
 	  {
-		$('#msg').html('Congratualison For Wining');
+		$('#msg').html('Congratualion For Wining');
 		$('#msg').css('color','green');
 	  }
 	  else
@@ -112,7 +112,7 @@ function play_again_option_show()
 		$('#row_2_1').css('background-color','green');
 	  if(p=='0')
 	  {
-		$('#msg').html('Congratualison For Wining');
+		$('#msg').html('Congratualion For Wining');
 		$('#msg').css('color','green');
 	  }
 	  else
@@ -130,7 +130,7 @@ function play_again_option_show()
 		$('#row_2_2').css('background-color','green');
 	 if(p=='0')
 	  {
-		$('#msg').html('Congratualison For Wining');
+		$('#msg').html('Congratualion For Wining');
 		$('#msg').css('color','green');
 	  }
 	  else
@@ -150,7 +150,7 @@ function play_again_option_show()
 		$('#row_2_2').css('background-color','green');
 	  if(p=='0')
 	  {
-		$('#msg').html('Congratualison For Wining');
+		$('#msg').html('Congratualion For Wining');
 		$('#msg').css('color','green');
 	  }
 	  else
@@ -168,7 +168,7 @@ function play_again_option_show()
 		$('#row_2_0').css('background-color','green');
 	  if(p=='0')
 	  {
-		$('#msg').html('Congratualison For Wining');
+		$('#msg').html('Congratualion For Wining');
 		$('#msg').css('color','green');
 	  }
 	  else
